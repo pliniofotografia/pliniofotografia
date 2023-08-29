@@ -802,7 +802,7 @@ body {
 
     #full-slide {
       position: relative;
-      height: 75%;
+      height: 100%;
       /*margin-top: 15px;*/
       margin-bottom: 15px;
       /*width: 1440px;
@@ -846,11 +846,11 @@ body {
     #full-slide .banner li:nth-child(1) {
       background-image: url("../img/full-slide/thumb-1.jpg");
     }
-    #full-slide .banner li:nth-child(2) {
+   /* #full-slide .banner li:nth-child(2) {
       background-image: url("../img/full-slide/thumb-2.jpg");
     }
     #full-slide .banner li:nth-child(3) {
-      background-image: url("../img/full-slide/thumb-3.jpg");
+      background-image: url("../img/full-slide/thumb-3.jpg");*/
     }
     #full-slide i {
       position: absolute;
